@@ -14,7 +14,7 @@ public class Fibonacci
 		{
 			fib = a + b;
 			a = b;
-			b = fib;
+			b = fib
 		}
 		
 		return fib;
