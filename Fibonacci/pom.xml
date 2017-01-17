@@ -25,7 +25,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-resources-plugin</artifactId>
-    <version>2.6</version>
+    <version>3.0.2</version>
 </dependency>
 
   </dependencies>
@@ -57,7 +57,7 @@
   </reporting>
   
   <!-- More Project Information -->
-  <name>Fibo_Mvn</name>
+  <name>Fibonacci</name>
 <!--   <description></description>
   <url></url>
   <inceptionYear></inceptionYear>
@@ -74,7 +74,6 @@
   <prerequisites></prerequisites>
   <repositories></repositories>
   <pluginRepositories></pluginRe 
-4:47 PM 
 
 <pluginRepositories></pluginRepositories>
   <distributionManagement></distributionManagement>
